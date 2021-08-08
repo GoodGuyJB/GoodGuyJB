@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoodGuyJB
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, and have a good understanding and experience in: Angular, MongoDB and Node.JS (express)
+- 🌱 I’m currently learning React, and have a good understanding and experience in: Angular, MongoDB, Node.JS (express) and C#
 - 📫 How to reach me: guythecaesar@gmail.com
 
 <!---
